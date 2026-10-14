@@ -2,6 +2,7 @@
 
 每次会话开始先读：
 - `docs/claude-chat-notes.md`：已定的决策（语言路线、英语计划、频道设计、第 1 期大纲、规矩）。**以它为准。**
+- `docs/channel-structure.md`：频道板块和每周排期。
 - `docs/channel-profile.md`：我是谁、频道和 X 数据、对标频道。
 - `docs/references/`：参考资料笔记。
 
