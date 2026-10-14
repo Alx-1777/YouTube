@@ -1,6 +1,11 @@
 # Alx 的 YouTube 运营大本营
 
-每次会话开始先读 `docs/channel-profile.md`（我是谁、频道定位）和 `docs/` 下的最新计划。
+每次会话开始先读：
+- `docs/claude-chat-notes.md`：已定的决策（语言路线、英语计划、频道设计、第 1 期大纲、规矩）。**以它为准。**
+- `docs/channel-profile.md`：我是谁、频道和 X 数据、对标频道。
+- `docs/references/`：参考资料笔记。
+
+注意：仓库是公开的，不要写入持仓金额、花销等隐私信息。
 
 ## 工具与凭证
 - YouTube Data API v3：通过 Network secret 注入（请求头 `X-goog-api-key`），直接请求
