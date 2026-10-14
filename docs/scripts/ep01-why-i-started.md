@@ -114,3 +114,42 @@ the cheapest leverage I have, building real connection, and forcing myself to gr
 07:05 结尾
 ```
 _时间戳剪完后按实际改。_
+
+---
+
+## 实际录制版（2026-10-14，去星巴克路上即兴讲，没用上面的稿子）
+
+两个观点：**成功 = 产品 × 流量**（学历在通货膨胀；去初创公司比去大厂离老板更近）；**做自媒体倒逼输入**（以分析 SpaceX 为例）。中间讲了先做中文、用 English Diary 练英语的决定。
+
+**标题**：成功 = 产品 × 流量：19 岁，我为什么开始做自媒体｜Why I Started YouTube at 19
+
+**简介**
+```
+成功 = 产品 × 流量。
+19 岁，UCSD 大一，在去星巴克的路上聊聊：我为什么现在开始做自媒体。
+
+① 学历在通货膨胀：它只是众多"产品"中的一个，没有流量，产品再好也没人知道
+② 做自媒体倒逼输入：想讲清楚一家公司，就得先把它彻底弄懂
+
+我会在这里真实记录：美股、科技、读书、观点、大学生活，以及每天一条英文日记（English Diary）。
+
+Success = Product × Reach.
+I'm 19, a freshman at UCSD. On my walk to Starbucks, I talk about why I'm starting a YouTube channel now:
+① Degrees are inflating. A degree is just one "product", and without reach, no one knows it exists.
+② Creating forces you to learn. To explain a company clearly, you have to understand it inside out.
+
+00:00 成功 = 产品 × 流量
+00:10 我是谁
+00:40 学历在通货膨胀
+01:30 去大厂，还是去初创公司？
+02:00 流量从哪来：自媒体
+02:35 为什么先做中文
+03:25 做自媒体倒逼输入
+04:35 频道接下来做什么
+05:00 到星巴克了
+
+X：@Alxliu0777
+
+⚠️ 仅为个人观点和记录，不构成投资建议。Not investment advice.
+```
+_时间戳是按建议剪法估的，剪完按实际改。_
