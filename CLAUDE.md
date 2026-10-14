@@ -9,10 +9,19 @@
 注意：仓库是公开的，不要写入持仓金额、花销等隐私信息。
 
 ## 工具与凭证
+本项目既在云端会话运行，也在用户的 Mac 本地运行。
+
+**云端**
 - YouTube Data API v3：通过 Network secret 注入（请求头 `X-goog-api-key`），直接请求
   `https://www.googleapis.com/youtube/v3/...` 即可，不需要在代码里写 Key。
 - X API：环境已接入 api.x.com（目前是 App-only 认证，只能读公开数据）。
-- 剪辑：容器内有 ffmpeg / ffprobe / Python3 / Node。
+- 容器内有 ffmpeg / Python3 / Node；Whisper 等需要每次装进临时 venv。
+- 云端 IP 被 YouTube 封锁：无法下载视频或字幕，只能用 API 拿元数据。
+
+**本地（Mac）**
+- 首次运行 `bash scripts/setup-mac.sh` 安装 ffmpeg、yt-dlp、faster-whisper 等，Python 工具在 `.venv/`。
+- YouTube API Key 在环境变量 `YOUTUBE_API_KEY` 里，请求时加 `key=$YOUTUBE_API_KEY` 参数；不要把 Key 打印出来或写进文件。
+- 视频素材放在 `media/`（已被 .gitignore 忽略）。
 
 ## 约定
 - 用中文沟通。
