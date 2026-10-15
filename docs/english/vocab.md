@@ -2,6 +2,15 @@
 
 _每天从 English Diary 里整理。按日期倒序。_
 
+## 2026-10-14
+| 表达 | 意思 | 例句 |
+|---|---|---|
+| a book called ... | 一本叫……的书 | I read a book called *Zero to One*. |
+| That's it for today. | 今天就到这里 | That's it for today. See you tomorrow. |
+| change the way I think | 改变思维方式 | It changed the way I think. |
+| to be specific | 具体来说 | To be specific, I mean the AI era. |
+| from the perspective of the future | 从未来的角度 | Look at today from the perspective of the future. |
+
 ## 2026-10-13
 | 表达 | 意思 | 例句 |
 |---|---|---|
@@ -13,4 +22,6 @@ _每天从 English Diary 里整理。按日期倒序。_
 | up to + 数量 | 最多…… | Shorts can only be up to three minutes long. |
 
 ## 语法规则
+- **the future**：future 表示"未来"时要加 the。（2026-10-14）
+- **th /θ/**：舌尖放上下齿之间吹气，thinking 不是 sinking。（2026-10-14）
 - **间接疑问句用陈述语序**：I asked Claude how **I can** improve…（不是 how can I）。（2026-10-13）
