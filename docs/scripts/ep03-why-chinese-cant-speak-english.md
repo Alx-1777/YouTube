@@ -117,3 +117,41 @@ I started recording a 1-minute English diary every day. In two days, my long pau
 X：@Alxliu0777
 ```
 _时间戳剪完后按实际改。_
+
+---
+
+## 实际录制版（2026-10-15 早上去上课路上，6:30，即兴）
+
+讲了：留学生扔到美国两年还是哑巴英语（抱团说中文）→ 课堂"97% 中文教 3% 英语"（本人估计）→ 要有英语思维 → 最缺的是输出，不敢说是因为怕犯错 → 我的办法：每天发英语 Short，让 Claude 纠错 → 想过做学英语的软件，发现没有东西能逼你输出，AI 能做的是纠错 → 结论：多输出。
+
+**标题**：扔到美国两年就会说英语？97% 中文教 3% 英语，难怪我们开不了口｜Why Chinese Students Still Can't Speak English
+
+**剪辑**：从 0:50"很多人以为在国外有语言环境"切入；剪掉 0:00–0:21、2:38–2:54、3:51–3:55、4:30 左右的看风景；4:49–4:55 重复的"最重要的就是输出"留一句；"97%"处加字幕"（我的估计）"；讲到每天发 Short 时贴字幕"两天：卡顿 20 → 7 次"；字幕把 "Cloud" 改成 "Claude"。剪完约 5 分半。
+
+**简介**
+```
+很多人以为，把人扔到美国两年就会说英语了。
+我是在美国读书的留学生：我身边很多留学生，到了国外依然是哑巴英语。
+
+为什么？
+① 留学生抱团，到了美国还是说中文
+② 我们从小用 97% 的中文学 3% 的英语（我的估计），没有英语思维
+③ 只有输入，没有输出；不敢说，因为怕犯错
+
+我的办法：每天用英语录一条 1 分钟的 Short，讲今天发生了什么，再让 AI 帮我纠错。两天，说话卡顿从 20 次降到 7 次。
+
+Many people think living in the US for two years will make you fluent. It doesn't.
+Most of the Chinese international students I know still can't speak English comfortably.
+The missing piece is output: speaking every day and getting corrected.
+
+00:00 扔到美国两年就会说英语？
+00:45 97% 中文教 3% 英语
+01:30 最缺的是输出
+02:05 我的办法：每天一条英语 Short
+03:20 为什么没有软件能帮你
+04:20 结论：多输出
+
+每天的英语日记：English Diary 播放列表
+X：@Alxliu0777
+```
+_时间戳按建议剪法估算，剪完按实际改。_
