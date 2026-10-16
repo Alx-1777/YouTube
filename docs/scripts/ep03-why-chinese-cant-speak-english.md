@@ -144,14 +144,17 @@ Many people think living in the US for two years will make you fluent. It doesn'
 Most of the Chinese international students I know still can't speak English comfortably.
 The missing piece is output: speaking every day and getting corrected.
 
-00:00 扔到美国两年就会说英语？
-00:45 97% 中文教 3% 英语
-01:30 最缺的是输出
-02:05 我的办法：每天一条英语 Short
-03:20 为什么没有软件能帮你
-04:20 结论：多输出
+00:00 去上课的路上
+00:21 今天聊聊学英语
+00:50 扔到美国两年就会说英语？
+01:36 97% 中文教 3% 英语
+02:30 你得有英语思维
+03:03 最缺的是输出，不敢说是因为怕犯错
+03:33 我的办法：每天一条英语 Short + AI 纠错
+05:14 为什么没有软件能帮你学会英语
+05:58 结论：多输出
 
 每天的英语日记：English Diary 播放列表
 X：@Alxliu0777
 ```
-_时间戳按建议剪法估算，剪完按实际改。_
+_2026-10-16：视频以未剪辑版（6:30）发布，时间戳已按原视频对好。视频 ID aA5E4eCJ8UI。_
