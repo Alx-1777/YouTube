@@ -2,6 +2,17 @@
 
 _每天从 English Diary 里整理。按日期倒序。_
 
+## 2026-10-16
+| 表达 | 意思 | 例句 |
+|---|---|---|
+| learner's permit | 驾照学习许可 | I got my learner's permit at the DMV. |
+| take the test | 参加考试 | I took the test and passed. |
+| rent | 租 | I'll rent a Tesla instead of buying one. |
+| get more fluent | 变得更流利 | My English is getting more fluent. |
+| eat clean / whole foods | 吃得健康 / 天然食物 | I ate clean today: just whole foods. |
+| decide not to do | 决定不做 | I decided not to eat anything else. |
+| perspective / mindset | 认知、视角 / 思维方式 | It changed my perspective. |
+
 ## 2026-10-15
 | 表达 | 意思 | 例句 |
 |---|---|---|
@@ -31,6 +42,8 @@ _每天从 English Diary 里整理。按日期倒序。_
 | up to + 数量 | 最多…… | Shorts can only be up to three minutes long. |
 
 ## 语法规则
+- **讲今天发生的事用过去时**：ate、went、couldn't。（2026-10-16）
+- **"变得"用 get**：getting more fluent，不是 being。（2026-10-16）
 - **of + doing**：Day 3 of practic**ing** my English。（2026-10-15）
 - **过去的想法用 would**：I thought eating more **would** help.（2026-10-15）
 - **the future**：future 表示"未来"时要加 the。（2026-10-14）
