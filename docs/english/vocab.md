@@ -2,6 +2,15 @@
 
 _每天从 English Diary 里整理。按日期倒序。_
 
+## 2026-10-15
+| 表达 | 意思 | 例句 |
+|---|---|---|
+| in the AI era | 在 AI 时代 | In the AI era, we should focus on hardware. |
+| emerge | 出现、涌现 | New opportunities will emerge. |
+| watch what I eat / cut back | 管住嘴、少吃点 | I need to watch what I eat. |
+| figure out | 想明白、弄清楚 | I just figured out something. |
+| That's my main point. | 这就是我的重点 | That's my main point for today. |
+
 ## 2026-10-14
 | 表达 | 意思 | 例句 |
 |---|---|---|
@@ -22,6 +31,8 @@ _每天从 English Diary 里整理。按日期倒序。_
 | up to + 数量 | 最多…… | Shorts can only be up to three minutes long. |
 
 ## 语法规则
+- **of + doing**：Day 3 of practic**ing** my English。（2026-10-15）
+- **过去的想法用 would**：I thought eating more **would** help.（2026-10-15）
 - **the future**：future 表示"未来"时要加 the。（2026-10-14）
 - **th /θ/**：舌尖放上下齿之间吹气，thinking 不是 sinking。（2026-10-14）
 - **间接疑问句用陈述语序**：I asked Claude how **I can** improve…（不是 how can I）。（2026-10-13）
