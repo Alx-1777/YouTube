@@ -159,3 +159,18 @@ I'm a Chinese student in the US, practicing my English every day.
 
 #从0到1 #马斯克 #留学生日常 #英语口语 #读书分享 #全英vlog
 ```
+
+---
+
+## 实际录制（2026-10-25，DJI 横屏，2:07，DJI_20261025170751_0040）
+
+按短稿录的。0:15–0:26 说了 "I want to be the next Elon Musk. I want to surpass him."（和"不在镜头上说超越马斯克"的规矩冲突，是否剪掉由 Alx 决定；剪掉后 0:27 之后的时间戳减 11 秒）。字幕要改：Till → Thiel；37% cents → 37 cents；1:33 → "The next Elon Musk won't build rockets."
+
+同日另外两段（0041 0:53、0042 8:13）是 Bay Club 健身房里录的英语日记，不属于本期。
+
+**最终标题和简介（中英两版，时间戳按未剪原片）**
+
+中文（抖音、小红书、B站）：`别再模仿马斯克了｜留学生全英文聊《从0到1》`
+英文（YouTube、TikTok）：`Stop Copying Elon Musk | What "Zero to One" Taught Me`
+
+章节：00:00 The book · 00:27 I used to copy Elon Musk · 00:46 Zero to one vs one to n · 01:04 Competition is for losers · 01:31 What I got wrong · 01:49 A hard question
