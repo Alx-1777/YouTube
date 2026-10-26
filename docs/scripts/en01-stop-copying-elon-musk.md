@@ -49,6 +49,57 @@ I'm a Chinese student in the US, practicing my English every day. See you tomorr
 
 ---
 
+## 横屏长版（6–8 分钟，2026-10-25 改为横屏后用这版）
+
+**[1. Hook]**
+**I used to copy everything Elon Musk did.** He played video games, so I played the same games. He learned to code, so I learned to code. I thought: if I do what he did, maybe I can become like him.
+Then I read a book that told me: **that's exactly the wrong way.**
+
+**[2. Who I am]**
+Quick intro: I'm Alex. I'm 19, I'm a Chinese student studying math and economics at UCSD. I make videos in English to practice speaking, so my English isn't perfect. Thanks for bearing with me.
+
+**[3. The book and the author]**
+The book is ***Zero to One***, by **Peter Thiel**.
+Here's a fun fact: **Thiel and Musk built PayPal together.** Around 2000, Musk's company X.com merged with Thiel's company, and it became PayPal. A couple of years later, eBay bought it for about **1.5 billion dollars**.
+So when this guy tells you how to think about Elon Musk, you should probably listen.
+
+**[4. Idea 1: Zero to one vs one to n]**
+Thiel says there are two kinds of progress.
+**One to n means copying something that already works.** You take one thing and make more of it.
+**Zero to one means creating something completely new.** Something that didn't exist before.
+Copying is easier. You know it works. But **the world only really changes when someone goes from zero to one.**
+
+**[5. Idea 2: Competition is for losers]**
+This one surprised me the most: **competition is for losers.**
+We're taught that competition is good. Study harder than your classmates, beat everyone on the exam.
+But Thiel says: if everyone does the same thing, nobody makes money.
+Look at airlines. They move millions of people every day, but they make **about 37 cents** per passenger.
+Now look at Google. For years, it had almost no real competitor in search, so it made huge profits.
+**The best companies don't win the competition. They escape it.**
+
+**[6. Idea 3: Start small]**
+So how do you escape competition? **Start with a small market and dominate it.**
+Facebook didn't start by trying to connect the whole world. It started with **one college: Harvard.** Then a few more colleges. Then everyone.
+
+**[7. What I got wrong]**
+Now back to me copying Elon Musk.
+**The next Elon Musk won't build rockets. Elon already did that.** The next Mark Zuckerberg won't build a social network.
+If I copy their past, I'm just doing one to n. **I can learn from them, but I can't copy them.**
+
+**[8. What I'm doing instead]**
+So now I ask myself a different question: **What will people need in the future, that nobody is building yet?**
+In the AI era, a lot of old paths are already taken. AI can already write a lot of code. So maybe the answer isn't "learn to code like Zuckerberg did."
+Honestly, I don't have the answer yet. But **asking the right question is already a step from zero to one.**
+Even this channel: a Chinese student learning English in public, every single day. I haven't seen many people do that. That's my small market.
+
+**[9. Ending]**
+Thiel has one question in the book that I love:
+**"What important truth do very few people agree with you on?"**
+It's a hard question. Think about it, and **tell me your answer in the comments.** I'll read every one.
+If you want to watch my English get better, subscribe. See you in the next video.
+
+---
+
 ## 发音提醒
 
 | 词 | 怎么读 | 注意 |
