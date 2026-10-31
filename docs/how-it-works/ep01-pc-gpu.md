@@ -55,12 +55,12 @@ But here's what trips everyone up: **RAM is not storage.** Turn off the power, a
 
 ## 6. SSD: the fridge（2:45）
 【点 SSD】
-So where does your stuff actually live? In storage. The **SSD** is the **fridge**.
+So where does your stuff actually live? In storage. The **SSD**, Solid State Drive, is the **fridge**.
 It keeps your files, your apps, and your whole operating system, even when the power is off.
 **The countertop forgets. The fridge remembers.**
-Old hard drives, HDDs, spin a disk, like digging through a messy garage. An SSD has no moving parts. A PC that took a minute to start on a hard drive can start in seconds on an SSD.
+Old hard drives, called **HDDs**, Hard Disk Drives, spin a disk, like digging through a messy garage. An SSD has no moving parts. A PC that took a minute to start on a hard drive can start in seconds on an SSD.
 
-> **中文**：那你的东西到底存在哪？存储里。SSD，固态硬盘，就是冰箱。它保存你的文件、应用和整个操作系统，断电也不会丢。操作台会忘，冰箱会记住。老式机械硬盘（HDD）靠转动的盘片存数据，找文件就像在乱糟糟的车库里翻东西；SSD 没有任何会动的零件。用机械硬盘要一分钟才能开机的电脑，换成 SSD 几秒钟就好。
+> **中文**：那你的东西到底存在哪？存储里。SSD（Solid State Drive），固态硬盘，就是冰箱。它保存你的文件、应用和整个操作系统，断电也不会丢。操作台会忘，冰箱会记住。老式机械硬盘 HDD（Hard Disk Drive）靠转动的盘片存数据，找文件就像在乱糟糟的车库里翻东西；SSD 没有任何会动的零件。用机械硬盘要一分钟才能开机的电脑，换成 SSD 几秒钟就好。
 
 ## 7. Motherboard: the hallways（3:35）
 【点 Motherboard】
@@ -72,11 +72,11 @@ That's why people building a PC often **pick it first**.
 
 ## 8. Power supply: the heart（4:10）
 【点 Power Supply】
-The **power supply** is the **heart**. The wall gives you high-voltage AC. Your parts need low-voltage DC.
+The **power supply**, or **PSU**, Power Supply Unit, is the **heart**. The wall gives you high-voltage **AC**, Alternating Current. Your parts need low-voltage **DC**, Direct Current.
 **The power supply converts it and splits it out** to every part.
 It won't make your PC faster, but **never go cheap on it.** A bad one can fail and take other parts down with it.
 
-> **中文**：电源是心脏。墙上插座给的是高压交流电，电脑部件需要的是低压直流电。电源负责转换，再分配给每一个部件。它不会让电脑变快，但千万别买便宜的。劣质电源可能会坏，还会连带把其他部件一起烧掉。
+> **中文**：电源（PSU，Power Supply Unit）是心脏。墙上插座给的是高压交流电（AC，Alternating Current），电脑部件需要的是低压直流电（DC，Direct Current）。电源负责转换，再分配给每一个部件。它不会让电脑变快，但千万别买便宜的。劣质电源可能会坏，还会连带把其他部件一起烧掉。
 
 ## 9. Cooling: the exhaust fan（4:45）
 【点 CPU Cooler，再点 Case Fans】
