@@ -1,4 +1,4 @@
-# How It Works #1：Why Is Nvidia Worth Trillions? I Took a Computer Apart
+# How It Works #1：Every Part of a Computer, Explained in 3D (And Why AI Needs the GPU)
 
 _英文 · 横屏 · 目标 10 分钟 · 模型：https://claude.ai/artifact/2JTuwab5Hz9adJxKqt5Ky2 · 2026-10-30_
 
@@ -13,13 +13,12 @@ _英文 · 横屏 · 目标 10 分钟 · 模型：https://claude.ai/artifact/2JT
 ---
 
 ## 1. Hook（0:00）
-【模型：全景，慢慢自动旋转（空格）】
-**Nvidia became one of the most valuable companies in the world.**
-And it sells… this. A graphics card. A part that used to be for video games.
-So why is everyone, from Google to OpenAI, fighting to buy them?
-**To answer that, I took a computer apart.**
+【模型：按 E 爆炸视图，按空格慢慢旋转。前 5 秒画面就是爆炸视图】
+**This is everything inside a computer.**
+I spent a week learning what every single part does. In 10 minutes, you'll know too.
+**And you'll see why one of these parts matters more to AI than all the others combined.**
 
-## 2. Who I am（0:20）
+## 2. Who I am（0:15）
 I'm Alex. I'm 19, I study math at UCSD, and every day I take one thing apart and figure out how it works.
 This week I studied every part of a PC. **Here are my notes.** 【拿起笔记本】
 By the end of this video, you'll know what every part does, and why AI needs the GPU more than anything else.
@@ -123,6 +122,9 @@ I'm Alex, I take one thing apart every day. See you tomorrow.
 - "1 GW ≈ 一座大型核电站"：笔记原话，正确；"部分在建 AI 数据中心规划在吉瓦级"：用 "some… planned at around that scale"，不说具体公司和数字。
 - Nvidia 只说 "one of the most valuable companies in the world"，不报市值（会变），不做投资建议。
 
-## 标题 / 简介（录完按实际时间戳改）
-- EN：`Why Is Nvidia Worth Trillions? I Took a Computer Apart`
-- 中文：`英伟达凭什么值几万亿？我把一台电脑拆开了｜全英文`
+## 标题 / 封面（2026-10-30 定）
+- EN：`Every Part of a Computer, Explained in 3D (And Why AI Needs the GPU)`
+- 中文：`电脑里每个部件都在干什么？3D 拆给你看｜全英文`
+- 封面：爆炸视图截图 + Alx 的脸 + 大字 "WHY AI NEEDS THIS"，箭头指向 GPU
+- 为什么不用"Why Is Nvidia Worth Trillions?"：整期 7 成内容在讲各个部件，标题许诺英伟达会让观众失望（满意度低）。用"in 3D"做差异（outlier 理论：借题，加自己的角度），AI 放括号里当钩子。
+- 平台：YouTube 为主阵地（老胡"先专注一个平台"），其他平台只同步。
