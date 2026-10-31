@@ -15,17 +15,17 @@ _英文 · 横屏 · 目标 10 分钟 · 模型：https://claude.ai/artifact/2JT
 ## 1. Hook（0:00）
 【模型：按 E 爆炸视图，按空格慢慢旋转。前 5 秒画面就是爆炸视图】
 **This is everything inside a computer.**
-I spent a week learning what every single part does. In 10 minutes, you'll know too.
+It took me 40 minutes to learn what every single part does. **You'll know it in 10.**
 **And you'll see why one of these parts matters more to AI than all the others combined.**
 
-> **中文**：这就是一台电脑里的全部东西。我花了一周时间，弄明白了每一个部件是干什么的。10 分钟后，你也会知道。而且你会看到，其中有一个部件对 AI 来说，比其他所有部件加起来都重要。
+> **中文**：这就是一台电脑里的全部东西。我花了 40 分钟，弄明白了每一个部件是干什么的。你只要 10 分钟就能知道。而且你会看到，其中有一个部件对 AI 来说，比其他所有部件加起来都重要。
 
 ## 2. Who I am（0:15）
 I'm Alex. I'm 19, I study math at UCSD, and every day I take one thing apart and figure out how it works.
-This week I studied every part of a PC. **Here are my notes.** 【拿起笔记本】
+I watched one video on PC parts, took notes, and looked up everything I didn't get. **Here are my notes.** 【拿起笔记本】
 By the end of this video, you'll know what every part does, and why AI needs the GPU more than anything else.
 
-> **中文**：我是 Alex，19 岁，在 UCSD 读数学。我每天拆开一样东西，弄明白它是怎么工作的。这周我学了电脑的每一个部件，这是我的笔记。看完这期视频，你会知道每个部件是干什么的，以及为什么 AI 最需要的是 GPU。
+> **中文**：我是 Alex，19 岁，在 UCSD 读数学。我每天拆开一样东西，弄明白它是怎么工作的。我看了一个讲电脑部件的视频，边看边记笔记，不懂的都查清楚了，这是我的笔记。看完这期视频，你会知道每个部件是干什么的，以及为什么 AI 最需要的是 GPU。
 
 ## 3. A computer is a kitchen（0:45）
 【保持爆炸视图，开头已经按过 E】
