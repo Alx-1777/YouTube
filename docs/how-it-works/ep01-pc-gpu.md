@@ -162,6 +162,8 @@ I'm Alex, I take one thing apart every day. See you tomorrow.
 
 ## 发布信息（2026-10-31 成片 `10月31日.mov`，9:04）
 
+**已发布（10-31 晚，北京时间 11-01 12:46）**：长视频 https://youtu.be/y9YKJOTRfQU ｜ Short 1 https://youtube.com/shorts/Ck_tBiNSlME 。Short 2 定 11-01 发，Short 3 定 11-02 发。
+
 成片是纯口播，没用 3D 模型录屏，跳过了 micrograd 段。原视频已烧英文字幕 → YouTube 上传 `ep01_zh.srt` 作中文 CC 字幕（`ep01_en.srt` 可作英文 CC）。
 
 ### 标题

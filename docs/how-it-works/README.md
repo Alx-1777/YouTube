@@ -38,7 +38,7 @@
 | 主题 | 模型 | 状态 |
 |---|---|---|
 | 火箭（Falcon 9） | https://claude.ai/artifact/LVwSz4cwN359pG2FrxyW6f | 模型 ✅，脚本有中文版（docs/scripts/ep02-how-rockets-work.md），需改英文 |
-| 电脑 / GPU | https://claude.ai/artifact/2JTuwab5Hz9adJxKqt5Ky2 | 模型 ✅，脚本待写 |
+| 电脑 / GPU | https://claude.ai/artifact/2JTuwab5Hz9adJxKqt5Ky2 | ✅ 第 1 期已发：https://youtu.be/y9YKJOTRfQU |
 
 ## 选题库（按"大"排序：和钱、AI、热点有关的优先）
 
