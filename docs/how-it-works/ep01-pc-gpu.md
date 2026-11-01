@@ -171,43 +171,47 @@ I'm Alex, I take one thing apart every day. See you tomorrow.
 ### 简介（EN）
 I spent 40 minutes learning what every part of a computer does. Here it is in under 10, explained like a restaurant kitchen. And at the end, why the GPU is the part AI can't live without.
 
+```
 0:00 Intro
 0:26 A computer is a kitchen
 0:52 CPU: the head chef
-1:57 RAM: the countertop
-3:03 SSD vs HDD: the fridge
+1:54 RAM: the countertop
+2:54 SSD vs HDD: the fridge
 4:08 Motherboard: the hallways
-4:39 Power supply: the heart
+4:38 Power supply: the heart
 5:20 Cooling
-6:16 GPU: the army
+6:15 GPU: the army
 7:17 The bottleneck (and why Nvidia is worth so much)
 8:01 Gigawatts: AI needs its own power plant
-8:28 Recap
+8:27 Recap
+```
 
 Not financial advice.
 
 ### 简介（中文）
 我花了 40 分钟搞懂电脑里每个部件是干什么的，这期用不到 10 分钟讲给你，把电脑比作一家餐厅后厨。最后讲为什么 AI 离不开 GPU。全英文讲解，中英双语字幕。
 
+```
 0:00 开场
 0:26 电脑就是一个后厨
 0:52 CPU：主厨
-1:57 内存：操作台
-3:03 固态硬盘 vs 机械硬盘：冰箱
+1:54 内存：操作台
+2:54 固态硬盘 vs 机械硬盘：冰箱
 4:08 主板：走廊
-4:39 电源：心脏
+4:38 电源：心脏
 5:20 散热
-6:16 GPU：军队
+6:15 GPU：军队
 7:17 瓶颈（以及英伟达为什么这么值钱）
 8:01 吉瓦：AI 需要自己的发电站
-8:28 回顾
+8:27 回顾
+```
 
 不构成投资建议。
 
 ### Shorts（竖屏，已压中英字幕）
 | 文件 | 原片 | 标题 EN / 中文 |
 |---|---|---|
-| short1_cpu_vs_gpu.mp4（59s） | 6:16–7:14 | The CPU Is a Genius. The GPU Is an Army. / CPU 是天才，GPU 是军队 |
+| short1_cpu_vs_gpu.mp4（59s） | 6:15–7:14 | The CPU Is a Genius. The GPU Is an Army. / CPU 是天才，GPU 是军队 |
 | short2_why_nvidia.mp4（44s） | 7:17–8:01 | Why Is Nvidia Worth So Much? / 英伟达为什么这么值钱？ |
 | short3_ram_vs_ssd.mp4（44s） | 2:39–3:23 | RAM Forgets. SSD Never Forgets. / 内存会忘，硬盘不会忘 |
 
