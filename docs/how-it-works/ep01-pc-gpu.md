@@ -208,13 +208,13 @@ Not financial advice.
 
 不构成投资建议。
 
-### Shorts（竖屏，已压中英字幕）
-| 文件 | 原片 | 标题 EN / 中文 |
+### Shorts（竖屏，只有英文：标题和字幕都不放中文）
+| 文件 | 原片 | 标题 |
 |---|---|---|
-| short1_cpu_vs_gpu.mp4（59s） | 6:15–7:14 | The CPU Is a Genius. The GPU Is an Army. / CPU 是天才，GPU 是军队 |
-| short2_why_nvidia.mp4（44s） | 7:17–8:01 | Why Is Nvidia Worth So Much? / 英伟达为什么这么值钱？ |
-| short3_ram_vs_ssd.mp4（44s） | 2:39–3:23 | RAM Forgets. SSD Never Forgets. / 内存会忘，硬盘不会忘 |
+| short1_cpu_vs_gpu.mp4（59s） | 6:15–7:14 | The CPU Is a Genius. The GPU Is an Army. |
+| short2_why_nvidia.mp4（44s） | 7:17–8:01 | Why Is Nvidia Worth So Much? |
+| short3_ram_vs_ssd.mp4（44s） | 2:39–3:23 | RAM Forgets. SSD Never Forgets. |
 
-Shorts 简介统一：`Full video on my channel 👉 完整版在主页 #computer #GPU #AI #learnenglish`（Nvidia 那条加"不构成投资建议"）。
+Shorts 简介统一：`Full video on my channel 👉 #computer #GPU #AI`（Nvidia 那条加 "Not financial advice."）。
 
-切片工具：`scripts/make_short.py`（裁成 9:16、去掉底部原字幕、用 Pillow 画双语字幕叠加）。
+切片工具：`scripts/make_short.py`（裁成 9:16、去掉底部原字幕、用 Pillow 画英文字幕叠加；第 7 个参数给中文标题才会出中文）。

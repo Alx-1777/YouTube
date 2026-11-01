@@ -1,6 +1,8 @@
 import sys, json, os, subprocess
 from PIL import Image, ImageDraw, ImageFont
-S, src, a, b, name, t1, t2 = sys.argv[1], sys.argv[2], float(sys.argv[3]), float(sys.argv[4]), sys.argv[5], sys.argv[6], sys.argv[7]
+# t2 (Chinese title) optional: leave it out for English-only Shorts
+S, src, a, b, name, t1 = sys.argv[1], sys.argv[2], float(sys.argv[3]), float(sys.argv[4]), sys.argv[5], sys.argv[6]
+t2 = sys.argv[7] if len(sys.argv) > 7 else ""
 cues = json.load(open(f"{S}/final.json"))
 FONT = "/System/Library/Fonts/Hiragino Sans GB.ttc"
 W, H = 1080, 1920
@@ -17,18 +19,19 @@ def wrap(dr, text, font, maxw):
     return lines + [cur]
 def card(en=None, zh=None):
     im = Image.new("RGBA", (W, H), (0, 0, 0, 0)); dr = ImageDraw.Draw(im)
-    dr.rounded_rectangle((60, 110, W-60, 370), 28, fill=(0, 0, 0, 150))
+    tl = wrap(dr, t1, F(64), 900); zl = wrap(dr, t2, F(52), 900) if t2 else []
+    dr.rounded_rectangle((60, 110, W-60, 160 + 78*len(tl) + 64*len(zl)), 28, fill=(0, 0, 0, 150))
     y = 135
-    for ln in wrap(dr, t1, F(64), 900):
+    for ln in tl:
         dr.text((W/2, y), ln, font=F(64), fill="white", anchor="ma"); y += 78
-    for ln in wrap(dr, t2, F(52), 900):
+    for ln in zl:
         dr.text((W/2, y), ln, font=F(52), fill=(255, 214, 10), anchor="ma"); y += 64
-    dr.text((W/2, 1800), "Full video on my channel · 完整版在主页", font=F(36, 0), fill=(255,255,255,220), anchor="ma", stroke_width=3, stroke_fill="black")
+    dr.text((W/2, 1800), "Full video on my channel" + (" · 完整版在主页" if t2 else ""), font=F(36, 0), fill=(255,255,255,220), anchor="ma", stroke_width=3, stroke_fill="black")
     if en:
         y = 1430
         for ln in wrap(dr, en, F(58), 960):
             dr.text((W/2, y), ln, font=F(58), fill="white", anchor="ma", stroke_width=5, stroke_fill="black"); y += 70
-        for ln in wrap(dr, zh, F(54), 960):
+        for ln in (wrap(dr, zh, F(54), 960) if t2 else []):
             dr.text((W/2, y+8), ln, font=F(54), fill=(255, 214, 10), anchor="ma", stroke_width=5, stroke_fill="black"); y += 66
     return im
 seq, t, k = [], 0.0, 0
