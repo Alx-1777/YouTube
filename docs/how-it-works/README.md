@@ -10,7 +10,7 @@
   1. **钩子（0:00–0:30）**：一个反常识的问题或数字（"90% of a rocket is fuel"、"Why is Nvidia worth trillions?"）
   2. **拆开它**：从外到内，一个部件一个部件讲
   3. **核心原理**：一个公式、一个比喻、一个动画
-  4. **为什么重要**：和钱、AI、未来联系起来（观众为什么要在乎）
+  4. **为什么不可思议 / 为什么重要**：让观众觉得"原来如此"或者"这也太离谱了"。可以和钱、AI 有关，但**不是硬性要求**（2026-10-31 定，参考老高：好奇心比赚钱更底层）
   5. **结尾**：一句话总结 + 明天拆什么
 - **3D 模型界面只用英文**（标签、字幕、面板都不放中文）；中文只出现在后期加的视频字幕里
 - 字幕：英文 + 中文双语（后期加）
@@ -40,7 +40,12 @@
 | 火箭（Falcon 9） | https://claude.ai/artifact/LVwSz4cwN359pG2FrxyW6f | 模型 ✅，脚本有中文版（docs/scripts/ep02-how-rockets-work.md），需改英文 |
 | 电脑 / GPU | https://claude.ai/artifact/2JTuwab5Hz9adJxKqt5Ky2 | ✅ 第 1 期已发：https://youtu.be/y9YKJOTRfQU |
 
-## 选题库（按"大"排序：和钱、AI、热点有关的优先）
+## 内容方向（2026-10-31 补充）
+- **核心是好奇心，不是赚钱。** 参考老高与小茉：观众看他是因为好奇心被满足，不是因为能学到赚钱。
+- 和老高的区别：**我们讲的都是真的。** 真原理、真数据、3D 模型。卖点是"现实比幻想还离谱"。
+- 不做伪科学、阴谋论；不确定的说法要说明"科学家还不知道"。
+
+## 选题库
 
 | # | 标题（英文） | 角度 |
 |---|---|---|
@@ -58,3 +63,16 @@
 | 12 | How GPS Knows Where You Are | 卫星、相对论修正 |
 | 13 | How a Nuclear Reactor Works | 裂变、为什么 AI 数据中心在抢核电 |
 | 14 | How an iPhone Camera Works | 传感器、计算摄影 |
+
+### 好奇心 / 冒险类（2026-10-31 新增）
+
+| # | 标题（英文） | 角度 |
+|---|---|---|
+| 15 | How Do We Know the Universe Is 13.8 Billion Years Old? | 红移、宇宙微波背景 |
+| 16 | Where Is Voyager 1 Right Now? | 飞了 48 年，信号要跑将近一天，靠 1970 年代的电脑 |
+| 17 | What's Inside a Black Hole? | 事件视界、时间变慢、科学家也不知道的部分 |
+| 18 | How Does Anything Live 11 km Under the Sea? | 马里亚纳海沟的压力、深海生物 |
+| 19 | How Were the Pyramids Built? | 真实考古证据 vs 外星人传说 |
+| 20 | How Does a Plane Stay in the Air? | 升力，一个常被讲错的原理 |
+| 21 | Why Is the Sky Blue (and Sunsets Red)? | 光的散射 |
+| 22 | How Did We Take a Photo of a Black Hole? | 把整个地球变成一台望远镜 |
