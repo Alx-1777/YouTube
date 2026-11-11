@@ -22,7 +22,7 @@
 | 我承认 UCSD 有几个社团看起来挺好玩的 | I'll admit a few UCSD clubs look pretty fun. |
 | 比如说有的还造火箭 | Some of them even build rockets. |
 | 当然我觉得它的底层逻辑 | But I feel like, at the end of the day, |
-| 是为了给自己的简历加分 | it's all about [[padding your resume]]. |
+| 是为了[[给自己的简历加分]] | it's all about [[padding your resume]]. |
 | 我个人特别[[不适应这种感觉]] | It just [[doesn't sit right with me]]. |
 | 你不应该为自己考虑一下吗 | Shouldn't you be thinking about yourself, |
 | 为自己要做什么 | about what *you* actually want to do? |
