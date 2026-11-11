@@ -5,7 +5,7 @@
 | 时间 | 中文标蓝 | 英文标蓝 |
 |---|---|---|
 | 0:07 | 认真对待 | taking seriously |
-| 0:46 | 太无聊了 | bored out of my mind |
+| 0:47 | 太太无聊了 | bored out of my mind |
 | 0:56 | 为了啥 | what the point of |
 | 1:07 | 摆摊 | setting up booths |
 | 1:38 | 给自己的简历加分 | padding your resume |
